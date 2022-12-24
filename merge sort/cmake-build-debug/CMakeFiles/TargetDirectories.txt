@@ -1,0 +1,3 @@
+D:/ecpc/untitled19/cmake-build-debug/CMakeFiles/untitled19.dir
+D:/ecpc/untitled19/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ecpc/untitled19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
